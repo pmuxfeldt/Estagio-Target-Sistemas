@@ -30,37 +30,4 @@ public class Main2 {
 
         return segFibo == verificador;
     }
-
-        /* int primFibo = 0;
-        int segFibo = 1;
-
-        int nextFibo = 0;
-
-        while (nextFibo != numero) {
-
-            do {
-                //int cont = 1; cont <= numero; cont++ {
-
-                System.out.println(primFibo);
-
-                nextFibo = primFibo + segFibo;
-                primFibo = segFibo;
-                segFibo = nextFibo;
-
-            } while (primFibo != numero);
-        } */
-
-        //System.out.println("O valor da variavel soma é de: " + numero);
-
-
-
-
-
-
-/* nextFibo = primFibo + segFibo;
-nextFibo = primFibo - segFibo;
-segFibo = nextFibo;
-segFibo = nextFibo; */
-
-
 }
